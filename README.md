@@ -1,4 +1,4 @@
-# matrixeffect
+# Matrix Effect
 on this web page we will see the application of a matrix effect
 
 ## imagen del proyecto
